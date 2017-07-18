@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 0ebe490cfe0380c4fb22e4cdd0e7b1f6
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Flat_Washer_.5625
+    100004: Flat_Washer_.5625 1
+    100006: Flat_Washer_.5625_1
+    100008: Flat_Washer_.5625_2
+    100010: magazine1
+    100012: mesh1
+    100014: mesh1 1
+    100016: mesh10
+    100018: mesh11
+    100020: mesh12
+    100022: mesh13
+    100024: mesh14
+    100026: mesh15
+    100028: mesh16
+    100030: mesh17
+    100032: mesh18
+    100034: mesh19
+    100036: mesh2
+    100038: mesh3
+    100040: mesh4
+    100042: mesh5
+    100044: mesh6
+    100046: mesh7
+    100048: mesh8
+    100050: mesh9
+    100052: Model
+    100054: //RootNode
+    100056: muzzle_and_front_sight
+    100058: muzzle_and_front_sight1
+    400000: Camera
+    400002: Flat_Washer_.5625
+    400004: Flat_Washer_.5625 1
+    400006: Flat_Washer_.5625_1
+    400008: Flat_Washer_.5625_2
+    400010: magazine1
+    400012: mesh1
+    400014: mesh1 1
+    400016: mesh10
+    400018: mesh11
+    400020: mesh12
+    400022: mesh13
+    400024: mesh14
+    400026: mesh15
+    400028: mesh16
+    400030: mesh17
+    400032: mesh18
+    400034: mesh19
+    400036: mesh2
+    400038: mesh3
+    400040: mesh4
+    400042: mesh5
+    400044: mesh6
+    400046: mesh7
+    400048: mesh8
+    400050: mesh9
+    400052: Model
+    400054: //RootNode
+    400056: muzzle_and_front_sight
+    400058: muzzle_and_front_sight1
+    2300000: mesh1
+    2300002: mesh1 1
+    2300004: mesh2
+    2300006: mesh6
+    2300008: mesh7
+    3300000: mesh1
+    3300002: mesh1 1
+    3300004: mesh2
+    3300006: mesh6
+    3300008: mesh7
+    4300000: mesh1
+    4300002: mesh2
+    4300004: mesh6
+    4300006: mesh7
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
